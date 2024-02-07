@@ -1,0 +1,14 @@
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\Example_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\Example_Decorator.AssemblyInfoInputs.cache
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\Example_Decorator.AssemblyInfo.cs
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\Example_Decorator.csproj.CoreCompileInputs.cache
+D:\RUPP YEAR4\OOAD\Example_Decorator\bin\Debug\net8.0\Example_Decorator.exe
+D:\RUPP YEAR4\OOAD\Example_Decorator\bin\Debug\net8.0\Example_Decorator.deps.json
+D:\RUPP YEAR4\OOAD\Example_Decorator\bin\Debug\net8.0\Example_Decorator.runtimeconfig.json
+D:\RUPP YEAR4\OOAD\Example_Decorator\bin\Debug\net8.0\Example_Decorator.dll
+D:\RUPP YEAR4\OOAD\Example_Decorator\bin\Debug\net8.0\Example_Decorator.pdb
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\Example_Decorator.dll
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\refint\Example_Decorator.dll
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\Example_Decorator.pdb
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\Example_Decorator.genruntimeconfig.cache
+D:\RUPP YEAR4\OOAD\Example_Decorator\obj\Debug\net8.0\ref\Example_Decorator.dll
